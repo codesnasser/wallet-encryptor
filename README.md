@@ -8,8 +8,8 @@ This script provides a secure way to encrypt and decrypt wallet recovery phrases
 - Save encrypted phrases in a protected folder.
 
 ## Usage
-python3 cwallet.py -e password walletname  # To encrypt
-python3 cwallet.py -d password walletname  # To decrypt
+- python3 cwallet.py -e password walletname  # To encrypt
+- python3 cwallet.py -d password walletname  # To decrypt
 
 ## Requirements
 - Python 3
